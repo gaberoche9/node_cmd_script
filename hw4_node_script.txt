@@ -1,0 +1,11 @@
+hw4 node.js
+
+https: //github.com/gaberoche9/node_cmd_script
+
+
+https: //github.com/gaberoche9/node_cmd_script.git
+
+// gaberoche42 at gmail
+//
+// example: > node print_name --name "Brendan Eich"
+//          > Brendan Eich
